@@ -1,6 +1,7 @@
 # 0x00. AirBnB clone - The console
 
-![HolBnB clone](./hBnB.png)
+![AirBnB](assets/hbnb_logo.png)
+
 Welcome to the AirBnB clone project!
 
 ## Getting Started
